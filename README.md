@@ -1,5 +1,9 @@
 # Philiprehberger.Clock
 
+[![CI](https://github.com/philiprehberger/dotnet-clock/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-clock/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Clock.svg)](https://www.nuget.org/packages/Philiprehberger.Clock)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-clock)](LICENSE)
+
 Abstraction over DateTime/DateTimeOffset for testable time-dependent code with a fake clock for testing.
 
 ## Install

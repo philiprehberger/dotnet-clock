@@ -113,6 +113,12 @@ Real implementation of `IClock` that delegates to `DateTimeOffset.Now`, `DateTim
 | `AddClock()` | Registers `SystemClock` as `IClock` singleton |
 | `AddFakeClock(DateTimeOffset? initialTime)` | Registers `FakeClock` as `IClock` singleton |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Clock.csproj --configuration Release
+```
+
 ## License
 
 MIT

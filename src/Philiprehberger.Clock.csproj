@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.Clock</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Abstraction over DateTime/DateTimeOffset for testable time-dependent code with a fake clock for testing</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

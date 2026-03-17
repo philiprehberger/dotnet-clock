@@ -6,7 +6,7 @@
 
 Abstraction over DateTime/DateTimeOffset for testable time-dependent code with a fake clock for testing.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Clock

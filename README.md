@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-clock/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-clock/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Clock.svg)](https://www.nuget.org/packages/Philiprehberger.Clock)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-clock)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-clock)](https://github.com/philiprehberger/dotnet-clock/commits/main)
 
 Abstraction over DateTime/DateTimeOffset for testable time-dependent code with a fake clock for testing.
 
@@ -120,6 +119,24 @@ Real implementation of `IClock` that delegates to `DateTimeOffset.Now`, `DateTim
 dotnet build src/Philiprehberger.Clock.csproj --configuration Release
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-clock)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-clock/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-clock/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
